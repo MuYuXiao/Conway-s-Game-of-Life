@@ -6,3 +6,4 @@ go写的康威生命游戏
 - [ ] 设置棋盘大小
 - [ ] 游戏规则说明
 - [ ] [game性能优化](https://geektutu.com/post/hpg-slice.html)
+- [ ] 导出任意初始状态
